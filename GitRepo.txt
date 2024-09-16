@@ -4,3 +4,4 @@ one more line
 line number four.
 line number five
 line number six
+line six seven
